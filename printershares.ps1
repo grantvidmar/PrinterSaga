@@ -1,11 +1,6 @@
 # Define an array of network shares where printers are located
 $networkShares = @(
-    "\\CCTORPRN100",
-    "\\CCYYCPRN100",
-    "\\ccatlprn100",
-    "\\CCRIOPRN100",
-    "\\CCWSHCSS100",
-    "\\CCYVRPRN100"
+    "Printer server addresses"
 
 )
 
