@@ -1,3 +1,5 @@
+Warning this is mostly a bunch of garbage but I wanted to show all of my versions and attempts. I am getting better at versioning but still have a long way to go.
+
 # PrinterSaga
 This is a code set that I made to discover network printers and reprogram the DNS.
 
